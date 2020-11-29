@@ -1,0 +1,10 @@
+{
+    "id" : "com.app.rora.service.smarthome",
+    "description":"Native service to handle smarthome in connected car",
+    "engine":"native",
+    "executable":"smarthome_service",
+    "services": [{
+      "name": "com.app.rora.service.smarthome",
+      "description": "Native service to handle smarthome in connected car"
+    }]
+  }
